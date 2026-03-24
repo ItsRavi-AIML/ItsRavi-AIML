@@ -19,8 +19,8 @@
 
 🚀 **Intellitrace — VIT Chennai Hackathon**
 
-> Developing an AI-driven system for intelligent tracking, analysis, and decision support.
-> Focused on solving real-world inefficiencies using data + automation.
+*  Developing an AI-driven system for intelligent tracking, analysis, and decision support.
+* Focused on solving real-world inefficiencies using data + automation.
 
 ---
 
@@ -28,26 +28,26 @@
 
 ### 🔹 NEXA Messenger
 
-> Real-time communication app inspired by WhatsApp/Telegram
-> ✔ Modern UI/UX
-> ✔ Authentication system
-> ✔ Scalable chat architecture
+*  Real-time communication app inspired by WhatsApp/Telegram
+*  ✔ Modern UI/UX
+*  ✔ Authentication system
+*  ✔ Scalable chat architecture
 
 ---
 
 ### 🔹 AI Productivity Assistant
 
-> Smart assistant to improve workflow, task handling, and decision-making
-> ✔ Automation-focused
-> ✔ AI-based interactions
+* Smart assistant to improve workflow, task handling, and decision-making
+* ✔ Automation-focused
+* ✔ AI-based interactions
 
 ---
 
 ### 🔹 ChainGuard
 
-> Fraud detection system using graph intelligence
-> ✔ Multi-layer supply chain analysis
-> ✔ Pattern detection for anomalies
+* Fraud detection system using graph intelligence
+* ✔ Multi-layer supply chain analysis
+* ✔ Pattern detection for anomalies
 
 ---
 
