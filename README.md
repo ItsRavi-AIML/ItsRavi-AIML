@@ -26,7 +26,7 @@
 
 ## 🔥 Featured Projects
 
-### 🔹 NEXA Messenger
+### 🔹 KLYTRA Messenger
 
 *  Real-time communication app inspired by WhatsApp/Telegram
 *  ✔ Modern UI/UX
