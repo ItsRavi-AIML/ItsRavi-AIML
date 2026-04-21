@@ -17,7 +17,7 @@
 
 ## 🏆 Current Work
 
-🚀 **Projects named KLYTRA and developing an AI system like JARVIS named ULTRON**
+🚀 **Projects named KLYTRA and developing an AI system named ULTRON**
 
 *  Developing an AI-driven system for intelligent tracking, analysis, and decision support.
 * Focused on solving real-world inefficiencies using data + automation.
