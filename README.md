@@ -17,10 +17,22 @@
 
 ## 🏆 Current Work
 
-🚀 **Projects named KLYTRA and developing an AI system named ULTRON**
+🚀 **Currently Building**
 
-*  Developing an AI-driven system for intelligent tracking, analysis, and decision support.
-* Focused on solving real-world inefficiencies using data + automation.
+### 🔹 KLYTRA Messenger
+
+* Developing a modern real-time messaging platform inspired by WhatsApp and Telegram
+* Focused on seamless communication, scalability, and user experience
+
+### 🔹 EduMind AI
+
+* AI-powered educational platform designed to enhance learning experiences
+* Focused on personalized learning, intelligent assistance, and productivity
+
+### 🔹 AI Resume Analyzer
+
+* Smart resume analysis system powered by AI
+* Provides resume evaluation, improvement suggestions, and skill-gap insights
 
 ---
 
@@ -28,28 +40,32 @@
 
 ### 🔹 KLYTRA Messenger
 
-*  Real-time communication app inspired by WhatsApp/Telegram
-*  ✔ Modern UI/UX
-*  ✔ Authentication system
-*  ✔ Scalable chat architecture
+* Real-time communication platform inspired by WhatsApp/Telegram
+* ✔ Modern UI/UX
+* ✔ Authentication System
+* ✔ Scalable Chat Architecture
+* ✔ Secure Messaging Features
 
 ---
 
-### 🔹 AI Productivity Assistant
+### 🔹 EduMind AI
 
-* Smart assistant to improve workflow, task handling, and decision-making
-* ✔ Automation-focused
-* ✔ AI-based interactions
-
----
-
-### 🔹 ChainGuard
-
-* Fraud detection system using graph intelligence
-* ✔ Multi-layer supply chain analysis
-* ✔ Pattern detection for anomalies
+* AI-powered educational assistant for students and learners
+* ✔ Personalized Learning Support
+* ✔ AI-Based Question Assistance
+* ✔ Productivity & Study Tools
+* ✔ Educational Resource Management
 
 ---
+
+### 🔹 AI Resume Analyzer
+
+* Intelligent resume screening and analysis platform
+* ✔ Resume Score Evaluation
+* ✔ ATS-Friendly Suggestions
+* ✔ Skill Gap Identification
+* ✔ AI-Powered Recommendations
+
 
 ## 🛠 Tech Stack
 
