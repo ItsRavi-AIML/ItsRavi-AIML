@@ -17,54 +17,96 @@
 
 ## 🏆 Current Work
 
-🚀 **Currently Building**
+### 🚀 KLYTRA Messenger
 
-### 🔹 KLYTRA Messenger
+Building a modern communication platform focused on seamless messaging, user-friendly design, and scalable architecture. Inspired by next-generation messaging applications with an emphasis on performance and reliability.
 
-* Developing a modern real-time messaging platform inspired by WhatsApp and Telegram
-* Focused on seamless communication, scalability, and user experience
+### 🎓 EduMind AI
 
-### 🔹 EduMind AI
+Developing an AI-powered learning companion that helps students study smarter through intelligent note generation, document understanding, quiz creation, and personalized educational assistance.
 
-* AI-powered educational platform designed to enhance learning experiences
-* Focused on personalized learning, intelligent assistance, and productivity
+### 📄 AI Resume Analyzer
 
-### 🔹 AI Resume Analyzer
-
-* Smart resume analysis system powered by AI
-* Provides resume evaluation, improvement suggestions, and skill-gap insights
+Creating an intelligent resume evaluation system that leverages AI and NLP techniques to analyze resumes, assess ATS compatibility, identify skill gaps, and provide actionable career recommendations.
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🔹 KLYTRA Messenger
+### 🏦 ATM Simulator C
 
-* Real-time communication platform inspired by WhatsApp/Telegram
-* ✔ Modern UI/UX
-* ✔ Authentication System
-* ✔ Scalable Chat Architecture
-* ✔ Secure Messaging Features
+A feature-rich banking simulator developed in C that replicates core ATM functionalities through an interactive terminal interface.
 
----
+**Highlights**
 
-### 🔹 EduMind AI
-
-* AI-powered educational assistant for students and learners
-* ✔ Personalized Learning Support
-* ✔ AI-Based Question Assistance
-* ✔ Productivity & Study Tools
-* ✔ Educational Resource Management
+* Secure PIN-based authentication
+* Real-time session timer management
+* Cash withdrawal and deposit operations
+* Fund transfer functionality
+* Transaction history tracking
+* Receipt generation system
+* Persistent file-based data storage
+* Enhanced CLI user experience
 
 ---
 
-### 🔹 AI Resume Analyzer
+### 🎓 EduMind AI
 
-* Intelligent resume screening and analysis platform
-* ✔ Resume Score Evaluation
-* ✔ ATS-Friendly Suggestions
-* ✔ Skill Gap Identification
-* ✔ AI-Powered Recommendations
+An AI-powered educational platform designed to make learning more interactive, personalized, and efficient.
+
+**Highlights**
+
+* PDF document analysis
+* AI-powered note generation
+* Automatic quiz creation
+* Intelligent question answering
+* Semantic search capabilities
+* Personalized study assistance
+* Modern AI-driven learning workflows
+
+---
+
+### 📄 AI Resume Analyzer
+
+A smart recruitment and career-support tool that helps users optimize their resumes using AI-driven insights.
+
+**Highlights**
+
+* ATS compatibility analysis
+* Resume scoring system
+* Skill gap identification
+* NLP-based content evaluation
+* Personalized improvement suggestions
+* Career-focused recommendations
+
+---
+
+### 💬 KLYTRA Messenger
+
+A modern messaging platform focused on delivering fast, secure, and scalable communication experiences.
+
+**Highlights**
+
+* Real-time messaging architecture
+* Secure user authentication
+* Responsive and modern interface
+* Scalable backend design
+* Future-ready communication framework
+
+---
+
+### 🔗 ChainGuard
+
+A graph-intelligence solution developed to identify fraud patterns and anomalies within complex supply chain networks.
+
+**Highlights**
+
+* Supply chain visualization
+* Fraud detection mechanisms
+* Graph-based relationship analysis
+* Pattern recognition and anomaly detection
+* Decision-support insights for risk assessment
+
 
 
 ## 🛠 Tech Stack
@@ -73,6 +115,8 @@
 
 * Python
 * JavaScript
+* C language
+* C++
 
 **AI/ML**
 
