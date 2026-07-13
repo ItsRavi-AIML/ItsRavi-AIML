@@ -1,150 +1,203 @@
-# 🚀 Raja Ravi Varma | AI Systems Developer (Integrated MTech – AI)
+<div align="center">
 
-<p align="center">
-  Building intelligent applications, automation tools, and real-world AI solutions
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Raja%20Ravi%20Varma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20Developer%20%7C%20Integrated%20M.Tech%20AI,%20VIT%20Bhopal&descAlignY=55&descSize=18)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF4D9D&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;RAG+%7C+NLP+%7C+Semantic+Search;Full-Stack+%2B+AI+Systems;Hackathon+Builder)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-ravi-varma-n)
+[![Gmail](https://img.shields.io/badge/Email-FF4D9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nimmagaddaravivarma@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=ItsRavi-AIML&color=ff4d9d&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-* 🎯 Focused on **AI-powered applications & productivity systems**
-* 🛠 Building tools that combine **AI + Web + Automation**
-* ⚡ Active hackathon participant
-* 📍 India
+- 🎯 Focused on **AI-powered applications & productivity systems**
+- 🛠 Building tools that combine **AI + Web + Automation**
+- ⚡ Active hackathon participant
+- 📍 India
 
 ---
 
-## 🏆 Current Work
+## 🚧 Current Work
 
-### 🚀 KLYTRA Messenger
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Building a modern communication platform focused on seamless messaging, user-friendly design, and scalable architecture. Inspired by next-generation messaging applications with an emphasis on performance and reliability.
+**💬 KLYTRA Messenger**
+![Status](https://img.shields.io/badge/status-building-FF4D9D?style=flat-square)
 
-### 🎓 EduMind AI
+Modern messaging platform — seamless UX, scalable architecture.
 
-Developing an AI-powered learning companion that helps students study smarter through intelligent note generation, document understanding, quiz creation, and personalized educational assistance.
+</td>
+<td width="33%" valign="top">
 
-### 📄 AI Resume Analyzer
+**🎓 EduMind AI**
+![Status](https://img.shields.io/badge/status-building-FF4D9D?style=flat-square)
 
-Creating an intelligent resume evaluation system that leverages AI and NLP techniques to analyze resumes, assess ATS compatibility, identify skill gaps, and provide actionable career recommendations.
+AI study companion — notes, quizzes, document understanding.
+
+</td>
+<td width="33%" valign="top">
+
+**📄 AI Resume Analyzer**
+![Status](https://img.shields.io/badge/status-building-FF4D9D?style=flat-square)
+
+ATS scoring, skill-gap detection, resume feedback via NLP.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🏦 ATM Simulator C
+### 📝 [Simple-To-Do-List](https://github.com/ItsRavi-AIML/Simple-To-Do-List)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-black?style=flat-square)
+![File Handling](https://img.shields.io/badge/File_Handling-FF4D9D?style=flat-square)
 
-A feature-rich banking simulator developed in C that replicates core ATM functionalities through an interactive terminal interface.
-
-**Highlights**
-
-* Secure PIN-based authentication
-* Real-time session timer management
-* Cash withdrawal and deposit operations
-* Fund transfer functionality
-* Transaction history tracking
-* Receipt generation system
-* Persistent file-based data storage
-* Enhanced CLI user experience
+CLI task manager with persistent storage.
+- CRUD task operations
+- File-based persistence
+- Terminal UI
 
 ---
 
-### 🎓 EduMind AI
+### 🏦 [ATM-Simulator-C](https://github.com/ItsRavi-AIML/ATM-Simulator-C)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Windows API](https://img.shields.io/badge/Windows_API-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-An AI-powered educational platform designed to make learning more interactive, personalized, and efficient.
-
-**Highlights**
-
-* PDF document analysis
-* AI-powered note generation
-* Automatic quiz creation
-* Intelligent question answering
-* Semantic search capabilities
-* Personalized study assistance
-* Modern AI-driven learning workflows
+Terminal-based banking simulator.
+- PIN authentication
+- Deposits, withdrawals, transfers
+- Transaction history + receipt generation
+- Session timer, file persistence
+- Windows console UI
 
 ---
 
-### 📄 AI Resume Analyzer
+### 🎓 [EduMind-AI](https://github.com/ItsRavi-AIML/EduMind-AI)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF4D9D?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-FF4D9D?style=flat-square)
 
-A smart recruitment and career-support tool that helps users optimize their resumes using AI-driven insights.
-
-**Highlights**
-
-* ATS compatibility analysis
-* Resume scoring system
-* Skill gap identification
-* NLP-based content evaluation
-* Personalized improvement suggestions
-* Career-focused recommendations
+AI study assistant.
+- PDF upload + RAG chat
+- Semantic search over documents
+- Quiz generation + summary generation
 
 ---
 
-### 💬 KLYTRA Messenger
+### 📄 [AI-Resume-Analyser](https://github.com/ItsRavi-AIML/AI-Resume-Analyser)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF4D9D?style=flat-square)
 
-A modern messaging platform focused on delivering fast, secure, and scalable communication experiences.
-
-**Highlights**
-
-* Real-time messaging architecture
-* Secure user authentication
-* Responsive and modern interface
-* Scalable backend design
-* Future-ready communication framework
+Resume evaluation via AI.
+- ATS compatibility scoring
+- Resume parsing + skill-gap analysis
+- Semantic matching + AI feedback
 
 ---
 
-### 🔗 ChainGuard
+### 💬 [KLYTRA](https://github.com/ItsRavi-AIML/KLYTRA)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-A graph-intelligence solution developed to identify fraud patterns and anomalies within complex supply chain networks.
+Full-stack messaging/web app.
+- Modern, responsive UI
+- Built on React ecosystem
 
-**Highlights**
+---
 
-* Supply chain visualization
-* Fraud detection mechanisms
-* Graph-based relationship analysis
-* Pattern recognition and anomaly detection
-* Decision-support insights for risk assessment
+### 🔗 [ChainGuard](https://github.com/ItsRavi-AIML/ChainGuard)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
+Supply-chain fraud detection.
+- Graph-intelligence analysis (Neo4j)
+- Fraud + risk scoring
+- Anomaly detection pipeline
 
+---
+
+### 🧩 [Personal-Productivity-Assistants](https://github.com/ItsRavi-AIML/Personal-Productivity-Assistants)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-FF4D9D?style=flat-square)
+
+AI productivity assistant.
+- Chat + semantic search
+- Knowledge retrieval
+- Personal automation workflows
+
+---
 
 ## 🛠 Tech Stack
 
-**Languages**
+<div align="center">
 
-* Python
-* JavaScript
-* C language
-* C++
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4D9D?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF4D9D?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF4D9D?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF4D9D?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-FF4D9D?style=for-the-badge)
+![AI Applications](https://img.shields.io/badge/AI_Applications-FF4D9D?style=for-the-badge)
+![API Development](https://img.shields.io/badge/API_Development-FF4D9D?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF4D9D?style=for-the-badge)
 
-**AI/ML**
-
-* Machine Learning
-* Data Processing
-
-**Development**
-
-* HTML, CSS
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsRavi-AIML&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsRavi-AIML&theme=tokyonight" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ItsRavi-AIML&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4D9D&icon_color=FF4D9D" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRavi-AIML&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4D9D" width="38%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsRavi-AIML&theme=radical&hide_border=true&background=0D1117&ring=FF4D9D&fire=FF4D9D" width="60%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsRavi-AIML&theme=radical&hide_border=true&bg_color=0D1117&color=FF4D9D&line=FF4D9D&point=FFFFFF" width="90%" />
+
+</div>
 
 ---
 
 ## 📫 Contact
 
-* 💼 LinkedIn: https://linkedin.com/in/raja-ravi-varma-n
-* 📧 Email: [nimmagaddaravivarma@gmail.com](mailto:nimmagaddaravivarma@gmail.com)
+- 💼 LinkedIn: [raja-ravi-varma-n](https://linkedin.com/in/raja-ravi-varma-n)
+- 📧 Email: [nimmagaddaravivarma@gmail.com](mailto:nimmagaddaravivarma@gmail.com)
 
 ---
 
 ## ⚡ Philosophy
 
 > I build systems that solve problems — not just projects for display.
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
+</div>
